@@ -1,2 +1,2 @@
 # Final-Project-Incomplete-
-incomplete final project, got some mechanics like movement, animation, and map design to work, but enemy movement and attacks not.
+Game is very incomplete. There is no GUI for the menu, working attack functions, or score counter. Time constraints likely contributed to this. However, basic things like movement, animation, enemy chasing and spawning, and background should work. I accomplished integrating basic mechanics to a 2D game, but I wanted to turn it into a fully fledged game. I didn't consider time restraints and didn't manage my time wisely.
